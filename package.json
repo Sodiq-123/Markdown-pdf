@@ -1,0 +1,14 @@
+{
+  "name": "markdown-to-pdf",
+  "version": "1.0.0",
+  "description": "Convert Markdown file to pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sodiq Agunbiade",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-pdf": "^10.0.0"
+  }
+}
